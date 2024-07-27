@@ -1,3 +1,5 @@
+import fs from 'fs';
+
 // TODO: Create a function that returns a license badge based on which license is passed in
 // If there is no license, return an empty string
 // license badge = image that shows the license
@@ -45,13 +47,19 @@ function renderLicenseSection(license) {
         return '';
     } else {
         return `## License
+        ${renderLicenseBadge(license)}
+        ${renderLicenseLink(license)}
         This project is utilizing the ${license} license.`;
+
     }
 }
 
 // TODO: Create a function to generate markdown for README
+// generate markdown
+
 function generateMarkdown(data) {
-  return `# ${data.title}
+return `
+# ${data.title}
 
 ## Description
 ${data.description}
@@ -71,7 +79,7 @@ ${data.contributing}
 ## Tests
 ${data.tests}
 
-## Questions
-${data.questions}
 `;
 }
+
+export default generateMarkdown;
