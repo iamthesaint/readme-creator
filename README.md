@@ -1,3 +1,4 @@
+
 # README Creator
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
@@ -21,6 +22,8 @@ Run ```node index.js``` and follow the prompts.
 
 <img width="524" alt="readme-creator-initialize" src="https://github.com/user-attachments/assets/022741ee-44a5-4c10-a9e8-1d21011e8c5c">
 <img width="1920" alt="readme-creator-finished" src="https://github.com/user-attachments/assets/f5e0800a-ae92-4fba-9781-7f20204cfb76">
+
+https://github.com/user-attachments/assets/76c4c294-9c76-4a73-b750-3f817e445a52
 
 
 ## License
