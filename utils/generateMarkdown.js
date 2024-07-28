@@ -60,7 +60,6 @@ function renderLicenseLink(license) {
 function renderLicenseSection(license) {
   let licenseSection = "";
   if (license !== "None") {
-    licenseSection += `## License\n`;
     licenseSection += renderLicenseBadge(license) + `\n`;
     licenseSection += `This project is licensed under the ${license} license.\n` + `Please see ` + renderLicenseLink(license) + ` for more information.\n`;
   }
