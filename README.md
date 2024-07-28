@@ -2,7 +2,7 @@
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
 ## Description
-Readme Creator is an app that helps the user create a detailed Read-me file formatted in markdown for project repositories. 
+README Creator assists the user in building a descriptive README.md file from the command line using Node.js.
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -11,9 +11,9 @@ Readme Creator is an app that helps the user create a detailed Read-me file form
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-node.js, npm install inquirer
+Requires ```npm install inquirer```
 ## Usage
-run node index.js to initialize
+Initialize the app by running ```node index.js```
 ## License
 ## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
