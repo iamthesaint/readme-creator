@@ -22,7 +22,7 @@ function renderLicenseBadge(license) {
       badge = "";
       break;
   }
-  return badge;
+  return badge + `\n`;
   
 }
 

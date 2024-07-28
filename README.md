@@ -1,7 +1,8 @@
 # README Creator
-![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
 ## Description
-App that allows a user to enter information in a node module to create a formatted, detailed readme.md for their GitHub repos.
+Readme Creator is an app that helps the user create a detailed Read-me file formatted in markdown for project repositories. 
 ## Table of Contents
 - [Installation](#installation)
 - [Usage](#usage)
@@ -10,18 +11,19 @@ App that allows a user to enter information in a node module to create a formatt
 - [Tests](#tests)
 - [Questions](#questions)
 ## Installation
-node.js and npm install inquirer
+node.js, npm install inquirer
 ## Usage
-node index.js to initialize
+run node index.js to initialize
 ## License
 ## License
-![License](https://img.shields.io/badge/License-EPL%201.0-red.svg)
-This project is licensed under the Eclipse license.
-Please see https://opensource.org/licenses/EPL-1.0 for more information.
+![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
+
+This project is licensed under the MIT license.
+Please see https://opensource.org/licenses/MIT for more information.
 
 ## Contributing
-n/a
+N/A
 ## Tests
-No testing available yet
+N/A
 ## Questions
 If you have any questions, please contact me at stephenie2@me.com or visit my GitHub page: [iamthesaint](http://github.com/iamthesaint)
