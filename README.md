@@ -18,6 +18,11 @@ README Creator asks specific questions and dynamically populates a completely fo
 A node package manager —Inquirer.js— is required. You can download the inquirer package [here](https://www.npmjs.com/package/inquirer) and run ```npm install inquirer``` from the command line. Once installed, you can initialize the README creator by running ```node index.js```.
 ## Usage
 Run ```node index.js``` and follow the prompts.
+
+<img width="524" alt="readme-creator-initialize" src="https://github.com/user-attachments/assets/022741ee-44a5-4c10-a9e8-1d21011e8c5c">
+<img width="1920" alt="readme-creator-finished" src="https://github.com/user-attachments/assets/f5e0800a-ae92-4fba-9781-7f20204cfb76">
+
+
 ## License
 ![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)
 
